@@ -3,7 +3,7 @@ Yonah CoolerMan
 
 **What Is This For**
 --------------------
-A Temperature Logging System for cold chain logistics. In this case, it will server as the temperature logging system for Yonah's UAV vaccine delivery in Papua New Guinea.
+A Temperature Logging System for cold chain logistics. This project will serve as the temperature logging system for Yonah's UAV vaccine delivery in Papua New Guinea.
 
 **Hardware and System diagram**
 -------------------------------
